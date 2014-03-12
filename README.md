@@ -5,4 +5,5 @@ $ git fetch
 $ git checkout paths-experiment
 $ npm install
 $ grunt browserify:experiment
+$ cat ./dist/experiment.js
 ```
